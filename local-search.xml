@@ -8,9 +8,15 @@
     <link href="/2025/06/14/test/"/>
     <url>/2025/06/14/test/</url>
     
-    <content type="html"><![CDATA[<p><img src="/feiya.jpg" alt="王菲"></p>]]></content>
+    <content type="html"><![CDATA[<!-- 设置固定宽度 + 居中 --><div style="text-align:center">  <img src="/2025/06/14/test/feiya.jpg" alt="王菲" style="width: 60%; max-width: 600px; border-radius: 8px;"></div><!-- 设置固定尺寸 + 浮动右对齐 --><img src="/2025/06/14/test/feiya.jpg" alt="王菲" style="width: 300px; height: 200px; float: right; margin-left: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">]]></content>
     
     
+    
+    <tags>
+      
+      <tag>test1 test2</tag>
+      
+    </tags>
     
   </entry>
   
